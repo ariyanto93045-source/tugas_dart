@@ -37,9 +37,12 @@ void main (){
   
   print("=== Informasi Tambahan  ===");
 
-  print("alamat         : ${alamat"[0]}"););
-  print("profesi" )
+  print("alamat         : ${biodata['nama']}");
+  print("profesi        : $profesi");
+
 }
+
+
 
 
     
